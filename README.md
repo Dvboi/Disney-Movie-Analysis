@@ -8,7 +8,8 @@ End to End analytics project for analysis of Disney movies.
 ## Prerequisite packages and software
 * Python
 * Pandas,Numpy,bs4,requests,urllib,scipy,matplotlib
-* Tableau Public 
+* Tableau Public      
+
 All the above packages and software are free!!
 
 
