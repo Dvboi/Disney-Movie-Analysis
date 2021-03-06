@@ -1,5 +1,16 @@
 # Disney-Movie-Analysis
-End to End analytics project for top disney movies
+End to End analytics project for analysis of Disney movies.
+
+## Important links
+* [Blog](https://dvboi.medium.com/portfolio-project-1-disney-movie-anaysis-12190297d1fe)
+* [Tableau Dashboard](https://public.tableau.com/views/DisneyMovies_16148452251710/Story1?:language=en&:display_count=y&:origin=viz_share_link)
+
+## Prerequisite packages and software
+* Python
+* Pandas,Numpy,bs4,requests,urllib,scipy,matplotlib
+* Tableau Public 
+All the above packages and software are free!!
+
 
 ## Data Collection  
 * Scraped Disney Movie data from Wikipedia [here](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films)
@@ -19,10 +30,10 @@ End to End analytics project for top disney movies
     
     ![BudVsBo](https://github.com/Dvboi/Disney-Movie-Analysis/blob/master/Tab_viz/Screenshot%20(45).png)   
         
-        ![IMDB](https://github.com/Dvboi/Disney-Movie-Analysis/blob/master/Tab_viz/Screenshot%20(46).png)
+    ![IMDB](https://github.com/Dvboi/Disney-Movie-Analysis/blob/master/Tab_viz/Screenshot%20(46).png)
         
          
            
-           ![TRENDS](https://github.com/Dvboi/Disney-Movie-Analysis/blob/master/Tab_viz/Screenshot%20(47).png)   
+     ![TRENDS](https://github.com/Dvboi/Disney-Movie-Analysis/blob/master/Tab_viz/Screenshot%20(47).png)   
               
               
