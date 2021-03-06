@@ -15,7 +15,7 @@ All the above packages and software are free!!
 
 ## Data Collection  
 * Scraped Disney Movie data from Wikipedia [here](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films)
-* Collected additionaldata from OMDB API for every title and attached to the data.   
+* Collected additional data from [OMDB API](http://www.omdbapi.com/) for every title and attached to the data.   
 
 ## Data Cleaning  
 * Cleaned data using Python and Regex
